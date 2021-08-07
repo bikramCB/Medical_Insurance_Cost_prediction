@@ -1,0 +1,7 @@
+ 1. first we collect insurance data.
+2. then we perform data analysis just to understand what is the data is actually about and find the relationship
+   among the graphs and other curves.
+3. after getting data we dont directly put it into ML model, we have to do data preprocessing.
+4. before getting into ML model we split the datas into test and train data.
+5. train Linear Regression model
+6. then bring new data to trained Linear regressin model to predict the insurance cost.
